@@ -1,0 +1,105 @@
+body {
+    background-color: #f8f8f8;
+}
+.menu {
+    color: black;
+    font-size: 14px;
+    font-family: Cambria, serif;
+    list-style-type: none;
+}
+.top {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+
+.short {
+    color: #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.full {
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+.property {
+    font-style: oblique;
+    list-style-image: url("img/favicon.ico");
+}
+
+div.field {
+    padding-bottom: 5px;
+}
+
+div.field label {
+    display: block;
+    float: left;
+    width: 70px;
+    height: 15px;
+}
+
+div.field input {
+    color: black;
+    width: 250px; height: 23px;
+    text-align: left;
+    font-style: italic;
+}
+
+div.img {
+    width: 200px;
+    height: 300px;
+    box-shadow: 0 0 0 4px dimgrey;
+}
+
+.main {
+    text-align: center;
+    color: #484343;
+    font-family: "Times New Roman", serif;
+    background-color: antiquewhite;
+}
+
+#main {
+    color: slategrey;
+    font-style: oblique;
+    font-size: 20px;
+    text-align: center;
+}
+
+#map {
+    width: 400px;
+    border: 2px solid #484343;
+}
+
+#contacts {
+    background: #eaeaea;
+    font-weight: normal;
+}
+
+#catalog {
+    display: flex;
+}
+
+div.catalog {
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+#product {
+    background: #eaeaea;
+    text-align: center;
+    font-weight: normal;
+}
+
+#img {
+    display: block;
+    margin: 0 auto;
+}
+
